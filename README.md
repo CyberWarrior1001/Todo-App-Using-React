@@ -25,8 +25,8 @@ It provides a fast development experience and optimized production builds.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/CyberWarrior1001/Todo-App-Using-React.git
+cd Todo-App-Using-React
 ```
 ### 2️⃣ Install Dependencies
 
