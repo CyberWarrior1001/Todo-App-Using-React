@@ -27,3 +27,13 @@ It provides a fast development experience and optimized production builds.
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+```
+### 2️⃣ Install Dependencies
+
+Make sure you have Node.js (>=16.x) installed.
+```bash
+npm install
+```
+### 3️⃣ Run Development Server
+```bash
+npm run dev
